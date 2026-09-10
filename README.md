@@ -1,5 +1,4 @@
-# 1A2B
-<!DOCTYPE html>
+# 1A2B終極密碼
 <html lang="zh-TW">
 <head>
     <meta charset="UTF-8">
